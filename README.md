@@ -67,5 +67,7 @@ python Fingerprint_construction/puf_fingerprint_generation.py
 | Inter-HD (raw) | 0.2954 | - | 0.5 |
 | Inter-HD (XOR) | 0.4970 | - | 0.5 |
 
+*Inter-HD is measured between Card 1 and Card 2 (uniqueness between devices) thats why we have only one value*
+
 ## Authors
 Sofian Yadir and Wassim Bejaoui  
